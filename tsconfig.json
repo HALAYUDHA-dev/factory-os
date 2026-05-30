@@ -8,6 +8,9 @@
     },
     {
       "path": "./app/factory-management"
+    },
+    {
+      "path": "./libs/shared/utils"
     }
   ]
 }
